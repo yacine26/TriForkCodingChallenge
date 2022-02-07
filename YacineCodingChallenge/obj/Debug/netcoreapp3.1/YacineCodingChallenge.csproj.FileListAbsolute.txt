@@ -1,0 +1,13 @@
+/Users/hamoudaarfaoui/Projects/YacineCodingChallenge/YacineCodingChallenge/bin/Debug/netcoreapp3.1/YacineCodingChallenge.deps.json
+/Users/hamoudaarfaoui/Projects/YacineCodingChallenge/YacineCodingChallenge/bin/Debug/netcoreapp3.1/YacineCodingChallenge.runtimeconfig.json
+/Users/hamoudaarfaoui/Projects/YacineCodingChallenge/YacineCodingChallenge/bin/Debug/netcoreapp3.1/YacineCodingChallenge.runtimeconfig.dev.json
+/Users/hamoudaarfaoui/Projects/YacineCodingChallenge/YacineCodingChallenge/bin/Debug/netcoreapp3.1/YacineCodingChallenge.dll
+/Users/hamoudaarfaoui/Projects/YacineCodingChallenge/YacineCodingChallenge/bin/Debug/netcoreapp3.1/YacineCodingChallenge.pdb
+/Users/hamoudaarfaoui/Projects/YacineCodingChallenge/YacineCodingChallenge/obj/Debug/netcoreapp3.1/YacineCodingChallenge.csproj.AssemblyReference.cache
+/Users/hamoudaarfaoui/Projects/YacineCodingChallenge/YacineCodingChallenge/obj/Debug/netcoreapp3.1/YacineCodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hamoudaarfaoui/Projects/YacineCodingChallenge/YacineCodingChallenge/obj/Debug/netcoreapp3.1/YacineCodingChallenge.AssemblyInfoInputs.cache
+/Users/hamoudaarfaoui/Projects/YacineCodingChallenge/YacineCodingChallenge/obj/Debug/netcoreapp3.1/YacineCodingChallenge.AssemblyInfo.cs
+/Users/hamoudaarfaoui/Projects/YacineCodingChallenge/YacineCodingChallenge/obj/Debug/netcoreapp3.1/YacineCodingChallenge.csproj.CoreCompileInputs.cache
+/Users/hamoudaarfaoui/Projects/YacineCodingChallenge/YacineCodingChallenge/obj/Debug/netcoreapp3.1/YacineCodingChallenge.dll
+/Users/hamoudaarfaoui/Projects/YacineCodingChallenge/YacineCodingChallenge/obj/Debug/netcoreapp3.1/YacineCodingChallenge.pdb
+/Users/hamoudaarfaoui/Projects/YacineCodingChallenge/YacineCodingChallenge/obj/Debug/netcoreapp3.1/YacineCodingChallenge.genruntimeconfig.cache
