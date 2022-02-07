@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 
 namespace YacineCodingChallenge.Models
@@ -23,16 +24,21 @@ namespace YacineCodingChallenge.Models
             Console.WriteLine($"Member {MemberName} added to group {Name}");
         }
 
-        // TODO add try/catch when member doesn't exist
+
         public void AddExpense(string MemberName, float Amount, string ExpenseName)
         {
-            this.Expenses.Add(new Expense(ExpenseName, MemberName, Amount));
-            // Finds the Member who paied for the expense
-            Member payer = FindMember(MemberName);
-            payer.Pay(Amount);
-            Console.WriteLine($"Member {MemberName} paied {Amount} Because {ExpenseName}");
+        
+            {
+                this.Expenses.Add(new Expense(ExpenseName, MemberName, Amount));
+                // Finds the Member who paied for the expense
+                Member payer = FindMember(MemberName);
+                payer.Pay(Amount);
+                Console.WriteLine($"Member {MemberName} paied {Amount} Because {ExpenseName}");
+            }
+          
         }
 
+        //showing each member payment
         public void ShowBalance(string MemberName)
         {
             Member member = FindMember(MemberName);
@@ -60,6 +66,7 @@ namespace YacineCodingChallenge.Models
             };
         }
 
+        //finding the member who paid more
         private Member PaiedMore()
         {
             return Members.Aggregate((m1, m2) => {
@@ -71,6 +78,7 @@ namespace YacineCodingChallenge.Models
             });
         }
 
+        //finding the member who paid less
         private Member PaiedLess()
         {
             return Members.Aggregate((m1, m2) => {

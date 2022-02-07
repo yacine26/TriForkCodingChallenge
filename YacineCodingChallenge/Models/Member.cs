@@ -12,6 +12,7 @@ namespace YacineCodingChallenge.Models
             this.Balance = 0f;
         }
 
+        //balance should increment 
         public void Pay(float Balance)
         {
             this.Balance += Balance;

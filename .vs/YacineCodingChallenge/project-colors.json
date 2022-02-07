@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "17eea6e6-0a5f-41b7-b152-f5d842b44b7b": {
+      "ProjectGuid": "17eea6e6-0a5f-41b7-b152-f5d842b44b7b",
+      "DisplayName": "YacineCodingChallenge",
+      "ColorIndex": 0
+    },
+    "6f5e3a06-5d69-4b47-93bd-22239486859e": {
+      "ProjectGuid": "6f5e3a06-5d69-4b47-93bd-22239486859e",
+      "DisplayName": "CodingChallenge.UnitTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
