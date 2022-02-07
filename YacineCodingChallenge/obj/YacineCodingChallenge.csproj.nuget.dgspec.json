@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hamoudaarfaoui/Projects/YacineCodingChallenge/YacineCodingChallenge/YacineCodingChallenge.csproj": {}
+    "C:\\Users\\hamou\\Desktop\\TriforkCodingChallenge\\YacineCodingChallenge\\YacineCodingChallenge.csproj": {}
   },
   "projects": {
-    "/Users/hamoudaarfaoui/Projects/YacineCodingChallenge/YacineCodingChallenge/YacineCodingChallenge.csproj": {
+    "C:\\Users\\hamou\\Desktop\\TriforkCodingChallenge\\YacineCodingChallenge\\YacineCodingChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hamoudaarfaoui/Projects/YacineCodingChallenge/YacineCodingChallenge/YacineCodingChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\hamou\\Desktop\\TriforkCodingChallenge\\YacineCodingChallenge\\YacineCodingChallenge.csproj",
         "projectName": "YacineCodingChallenge",
-        "projectPath": "/Users/hamoudaarfaoui/Projects/YacineCodingChallenge/YacineCodingChallenge/YacineCodingChallenge.csproj",
-        "packagesPath": "/Users/hamoudaarfaoui/.nuget/packages/",
-        "outputPath": "/Users/hamoudaarfaoui/Projects/YacineCodingChallenge/YacineCodingChallenge/obj/",
+        "projectPath": "C:\\Users\\hamou\\Desktop\\TriforkCodingChallenge\\YacineCodingChallenge\\YacineCodingChallenge.csproj",
+        "packagesPath": "C:\\Users\\hamou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hamou\\Desktop\\TriforkCodingChallenge\\YacineCodingChallenge\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/hamoudaarfaoui/.config/NuGet/NuGet.Config"
+          "C:\\Users\\hamou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

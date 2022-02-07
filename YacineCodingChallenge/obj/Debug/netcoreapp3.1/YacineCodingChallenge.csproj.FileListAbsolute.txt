@@ -11,3 +11,17 @@
 /Users/hamoudaarfaoui/Projects/YacineCodingChallenge/YacineCodingChallenge/obj/Debug/netcoreapp3.1/YacineCodingChallenge.dll
 /Users/hamoudaarfaoui/Projects/YacineCodingChallenge/YacineCodingChallenge/obj/Debug/netcoreapp3.1/YacineCodingChallenge.pdb
 /Users/hamoudaarfaoui/Projects/YacineCodingChallenge/YacineCodingChallenge/obj/Debug/netcoreapp3.1/YacineCodingChallenge.genruntimeconfig.cache
+C:\Users\hamou\Desktop\TriforkCodingChallenge\YacineCodingChallenge\obj\Debug\netcoreapp3.1\YacineCodingChallenge.csproj.AssemblyReference.cache
+C:\Users\hamou\Desktop\TriforkCodingChallenge\YacineCodingChallenge\obj\Debug\netcoreapp3.1\YacineCodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamou\Desktop\TriforkCodingChallenge\YacineCodingChallenge\obj\Debug\netcoreapp3.1\YacineCodingChallenge.AssemblyInfoInputs.cache
+C:\Users\hamou\Desktop\TriforkCodingChallenge\YacineCodingChallenge\obj\Debug\netcoreapp3.1\YacineCodingChallenge.AssemblyInfo.cs
+C:\Users\hamou\Desktop\TriforkCodingChallenge\YacineCodingChallenge\obj\Debug\netcoreapp3.1\YacineCodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\hamou\Desktop\TriforkCodingChallenge\YacineCodingChallenge\obj\Debug\netcoreapp3.1\YacineCodingChallenge.dll
+C:\Users\hamou\Desktop\TriforkCodingChallenge\YacineCodingChallenge\obj\Debug\netcoreapp3.1\YacineCodingChallenge.pdb
+C:\Users\hamou\Desktop\TriforkCodingChallenge\YacineCodingChallenge\bin\Debug\netcoreapp3.1\YacineCodingChallenge.exe
+C:\Users\hamou\Desktop\TriforkCodingChallenge\YacineCodingChallenge\bin\Debug\netcoreapp3.1\YacineCodingChallenge.deps.json
+C:\Users\hamou\Desktop\TriforkCodingChallenge\YacineCodingChallenge\bin\Debug\netcoreapp3.1\YacineCodingChallenge.runtimeconfig.json
+C:\Users\hamou\Desktop\TriforkCodingChallenge\YacineCodingChallenge\bin\Debug\netcoreapp3.1\YacineCodingChallenge.runtimeconfig.dev.json
+C:\Users\hamou\Desktop\TriforkCodingChallenge\YacineCodingChallenge\bin\Debug\netcoreapp3.1\YacineCodingChallenge.dll
+C:\Users\hamou\Desktop\TriforkCodingChallenge\YacineCodingChallenge\bin\Debug\netcoreapp3.1\YacineCodingChallenge.pdb
+C:\Users\hamou\Desktop\TriforkCodingChallenge\YacineCodingChallenge\obj\Debug\netcoreapp3.1\YacineCodingChallenge.genruntimeconfig.cache
